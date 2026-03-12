@@ -1,0 +1,14 @@
+# Godot project cache
+.godot/
+
+# Build outputs
+build/
+dist/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.vscode/
+.idea/
