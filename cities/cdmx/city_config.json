@@ -1,0 +1,7 @@
+{
+  "id": "cdmx",
+  "name": "Mexico City",
+  "description": "Starter sandbox city module for CUTEE.",
+  "default_spawn": [0, 0],
+  "supported_modes": ["sandbox"]
+}

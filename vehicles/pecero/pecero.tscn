@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://pecero_scene"]
+
+[ext_resource type="Script" path="res://vehicles/pecero/pecero_controller.gd" id="1_pecero"]
+
+[node name="Pecero" type="Node2D"]
+script = ExtResource("1_pecero")
